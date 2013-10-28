@@ -1,0 +1,65 @@
+﻿body {background-color:#D2B48C; font-family:'Comic Sans MS'
+}
+
+#defaultMain {font-family:'Comic Sans MS';width:400px; margin:0 auto; margin-top:100px;background-color:#FFFF99; border: solid 10px white; height: auto;padding:30px;font-family:Arial Narrow;text-align:center;color:#696969;
+}
+
+#otherMain {font-family:'Comic Sans MS' ; width:330px; margin:0 auto; margin-top:100px;background-color:#FFFF99; border: solid 10px white; height: auto;padding:30px;font-family:Arial Narrow;text-align:center;color:#696969;
+}
+
+#content {width:300px; margin:0 auto; font-family:'Comic Sans MS';text-align:left; color:#696969;height:auto;
+}
+
+#DetailsView1 {font-family:'Comic Sans MS';font-style:  normal; margin-left:auto;margin-right:auto;
+}
+
+#GridView1 {font-style:normal; font-family:'Comic Sans MS';height:50px;width:300px;margin-left:auto;margin-right:auto;
+}
+
+fields.table {margin:0 auto;
+}
+
+.header {font-family:'Comic Sans MS'   ;font-size: x-large;}
+.footer {font-family:'Comic Sans MS';font-size: small;}
+h4 {font-family:'Comic Sans MS';font-size: small;
+}
+
+.cssGridview {background-color:#F08080;border:solid 1px #fff;
+}
+.cssGridview td {color:#fff;
+}
+.cssGridview th {background-color:#D2B48C;border:solid 1px #fff;
+}
+.cssGridviewe .pgr {
+}
+.cssGridview .pgr table {margin:5px 0;
+}
+.cssGridview .pgr td {background:#D2B48C;
+}
+
+.cssDetailsview {background:#D2B48C;border:solid 1px #fff;
+}
+.cssDetailsview td {color:#fff;
+}
+.cssDetailsview .header td {background:#D2B48C;border:solid 1px #fff;
+}
+.cssDetailsview .fieldHeader {background:#F08080;border:solid 1px #fff;
+}
+.cssDetailsview .command{background:#D2B484;
+}
+.cssDetailsview .command td{background:#D2B484;text-align:center;
+}
+
+
+a:link {font-family:'Comic Sans MS';color:#696969;
+    text-decoration:none; 
+}
+a:visited {color:#696969;
+    text-decoration:none; 
+}
+a:hover {   
+    color: #000;
+}
+a:active {
+    color: #000;
+}
